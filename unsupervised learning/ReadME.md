@@ -2,9 +2,8 @@
 ![](https://cdn-images-1.medium.com/max/1600/1*JV-zyYQ8h5umO0RkTmjd6Q.png)
 
 **Description:**
+Clustering” is the process of grouping similar entities together. The goal of this unsupervised machine learning technique is to find similarities in the data point and group similar data points together.
 
-Involves finding structures and relationships from inputs. There is a set of data that is **unlabeled** to learn from.
-The result of an unsupervised learning model is to place observations from a dataset into (1) specific clusters or (2) to create rules to identify associtions between variables. 
 
 **Variables:**
   + features
