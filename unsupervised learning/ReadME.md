@@ -12,7 +12,7 @@ Clustering” is the process of grouping similar entities together. The goal of 
 **Types of algorithms:**
 + **Clustering:** 
   + Finding similarities/patterns in observed data
-  + e.g. [K-Means](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Unsupervised%20Learning/01-K%20Means), SVD, PCA, Hierarchical custering
+  + e.g. K-Means, SVD, PCA, Hierarchical custering
 + **Association:**
   + Identify sequences. Identify new and interesting insights between different objects in a set.
   + e.g. Frequent Pattern-Growth, Apriori Algorithm
