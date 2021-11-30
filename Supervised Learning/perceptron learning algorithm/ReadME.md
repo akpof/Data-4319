@@ -13,4 +13,3 @@ A Perceptron is simply composed of a single layer of TLUs,6 with each TLU connec
 
 ![](https://i.imgur.com/nQCsFs8.png)
 
-More details can be found in my notebook, along with an example of how  PLA works using Julia and the iris data set.
