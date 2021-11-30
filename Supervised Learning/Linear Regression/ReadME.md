@@ -11,10 +11,5 @@ The goal of the Linear regression is to find the best fit line that can accurate
 
 ## How does Linear Regression work?
 
-![](https://github.com/Dnsibu/NsibuD_DATA_4319/blob/main/Supervised%20Learning/03-Linear%20Regression/how%20does%20it%20work.jpg?raw=true)![](https://github.com/Dnsibu/NsibuD_DATA_4319/blob/main/Supervised%20Learning/03-Linear%20Regression/how%20it%20works%20cont.jpg?raw=true)
-
-
-This is a simple introduction to the closed-form of linear regression for machine learning with an example given using the Julia programming language. In this regression model, we will predict the salary that a software developer is expected to make based upon their age.kk
-
-
 Linear regression is an attractive model because the representation is so simple. The representation is a linear equation that combines a specific set of input values (x) the solution to which is the predicted output for that set of input values (y). As such, both the input values (x) and the output value are numeric
+![](https://www.researchgate.net/figure/Linear-Regression-model-sample-illustration_fig3_340271573)
