@@ -13,5 +13,4 @@ The goal of the Linear regression is to find the best fit line that can accurate
 
 Linear regression is an attractive model because the representation is so simple. The representation is a linear equation that combines a specific set of input values (x) the solution to which is the predicted output for that set of input values (y). As such, both the input values (x) and the output value are numeric
 
-![](https://www.researchgate.net/figure/Linear-Regression-model-sample-illustration_fig3_340271573)
-![](Linear-Regression-model-sample-illustration.pbm)
+
