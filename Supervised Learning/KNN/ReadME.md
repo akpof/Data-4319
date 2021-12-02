@@ -1,33 +1,36 @@
 # The K-Nearest Neighbors Algorithm
 ![](https://www.coryjmaklin.com/media/machine-learning-algorithms-part-6-k-nearest-neighbors-in-python-1.png)
 
-![](https://www.coryjmaklin.com/media/machine-learning-algorithms-part-6-k-nearest-neighbors-in-python-1.png)
 ## What is k-NN?
 
-k-Nearest neighbors is one of the simplest supervised machine learning algortithm there is. It is sometimes called the lazy algortithm because of how so simple it is. While it's mostly used for solving classification problems, this algorithm can also be used to solve regression and search (reccomendations) problems. It makes no mathematical assumptions, and it doesn’t require any sort of heavy machinery. 
+K nearest neighbors is a simple algorithm that stores all available cases and classifies new cases based on a similarity measure (e.g., distance functions)One of the simplest decision procedures that can be used for classification is the nearest neighbour (NN) rule. It classifies a sample based on the category of its nearest neighbour. The nearest neighbour based classifiers use some or all the patterns available in the training set to classify a test pattern
 
-The only things it requires are:
+When to use KNN:
 
-+	Some notion of distance
-+	An assumption that points that are close to one another are similar
+you can use the KNN algorithm for applications that require high accuracy but that do not require a human-readable model. The quality of the predictions depends on the distance measure.
 
-Pros:
-+ 1. Can be used for classification, regression, and search problems
-+ 2. Simple and easy to implement
-+ 3. No optimization of parameters
+Advantages:
++ Quick calculation time.
++ Simple algorithm – to interpret.
++  Versatile – useful for regression and classification.
++  High accuracy – you do not need to compare with better-supervised learning models.
+
     
-Cons:
-+ 1. slow
-+ 2. Sensitive to high dimension feature vectors and high volume of data
+Disadvatages:
++ Does not work well with a large dataset: ...
++ Does not work well with a high number of dimensions
+
 
 ## How does k-NN work?
 
-k-NN predicts a class (discrete value)  when it is being used for classification. The 3 key functions for this algortihtm are:
+KNN works by finding the distances between a query and all the examples in the data
 
-+ 1. Calculating the distance between any two points
-+ 2. Find k, the number of nearest neighbors, based on the distances
++ 1. The optimal K value usually found is the square root of N, where N is the total number of samples
++ 2. calculating the distance between any two points.
 + 3. Majority vote on a class labels based on the nearest neighbor list
 
 ## The Distance
 The most popular distance measure used for this algorithm is the Euclidean Distance. It is calculated as the square root of the sum of the squared differences between a new point and an existing point across all input attributes.
 ![](https://i.stack.imgur.com/RtnTY.jpg)
+
+![image](https://user-images.githubusercontent.com/95150718/144479017-d498b4af-9dc9-4c97-b7ba-ceb8beceb850.png)
