@@ -1,5 +1,4 @@
 # The K-Nearest Neighbors Algorithm
-![](https://www.coryjmaklin.com/media/machine-learning-algorithms-part-6-k-nearest-neighbors-in-python-1.png)
 
 ![image](https://user-images.githubusercontent.com/95150718/144479370-4e7d4072-71e8-482e-9e24-031549a668b0.png)
 
@@ -9,7 +8,7 @@ K nearest neighbors is a simple algorithm that stores all available cases and cl
 
 When to use KNN:
 
-you can use the KNN algorithm for applications that require high accuracy but that do not require a human-readable model. The quality of the predictions depends on the distance measure.
+you can use the KNN algorithm for applications that require high accuracy but that do not require a human-readable model. The quality of the predictions depends on the distance measure. KNN can be used for multiclass classification. Therefore if the data consists of more than two labels or in simple words if you are required to classify the data in more than two categories then KNN can be a suitable algorithm.
 
 Advantages:
 + Quick calculation time.
