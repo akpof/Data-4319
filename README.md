@@ -12,25 +12,22 @@ Programming languages used in this repo:
 + Feasibility of Learning
 + Measuring Error
 + Supervised Learning
-  + [Linear Regression](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Supervised%20Learning/03-Linear%20Regression)
-  + [The K-Nearest Neighbors Algorithm](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Supervised%20Learning/02-KNN)
+  + Linear Regression
+  + The K-Nearest Neighbors Algorithm KNN
   + Decision Trees and Regression Trees
-  + [Gradient Descent](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Supervised%20Learning/04-Gradient%20Descent)
-  + [Logistic Regression](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Supervised%20Learning/05-Logistic%20Regression)
-  + [The Perceptron Learning Algorithm](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Supervised%20Learning/01-%20Perceptron%20Learning%20%20Algorithm)
-  + [Neural Nets](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Supervised%20Learning/06-Neural%20Networks)
+  + Gradient Descent
+  + Logistic Regression
+  + The Perceptron Learning Algorithm
+  + Neural Nets
 + Unsupervised Learning
   + Clustering
-  + [The K-Means Clustering Algorithm](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Unsupervised%20Learning/01-K%20Means)
+  + The K-Means Clustering Algorithm
   + Hierarchical Clustering
   + Probabilistic Clustering
   + Autoencoding
 + Reinforcement Learning
   + Q-Learning
-  + [REINFORCE](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Reinforcement%20Learning)
+  + [REINFORCE]
   + Deep Q-Networks
 
 
-## Instructor: 
-+ Professor: Dr. Randy R. Davila
-+ Email: DavilaR@uhd.edu. 
