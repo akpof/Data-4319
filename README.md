@@ -14,7 +14,7 @@ Programming languages used in this repo:
 
 ### The Components of Learning
 
-# Supervised Learning :
+## Supervised Learning :
   + Linear Regression
   + The K-Nearest Neighbors Algorithm KNN
   + Decision Trees and Regression Trees
@@ -23,12 +23,12 @@ Programming languages used in this repo:
   + The Perceptron Learning Algorithm
   + Neural Nets
 
-# Unsupervised Learning :
+## Unsupervised Learning :
   + K - Means Clustering
   + Principle Component Analysis
  
  
-# Reinforcement Learning:
+## Reinforcement Learning:
   + Q-Learning
   + REINFORCE
   
