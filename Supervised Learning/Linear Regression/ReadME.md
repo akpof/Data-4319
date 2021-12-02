@@ -1,16 +1,12 @@
 # Linear Regression
-![](https://miro.medium.com/max/1200/1*N1-K-A43_98pYZ27fnupDA.jpeg)
+![image](https://user-images.githubusercontent.com/95150718/144492786-4ef788c7-ceb0-4413-b3c9-8e6f6e7d6095.png)
+
 
 ## What is Linear Regression?
-
-Linear regression is a supervised learning algorithm that is applied to **real valued** target functions in order to predict a range of possible outputs for a given input. 
-
-Linear Regression is one of the simplest algorithms in machine learning under supervised learning and it can be trained in different ways. However at this time  I'll be using the closed-form of linear regression.
-
-The goal of the Linear regression is to find the best fit line that can accurately predict the output for the continuous dependent variable
+linear regression is a regression model that estimates the relationship between one independent variable and one dependent variable using a straight line. It is a supervised learning algorithm that is applied to real valued target functions in order to predict a range of possible outputs for a given input.
 
 ## How does Linear Regression work?
 
 Linear regression is an attractive model because the representation is so simple. The representation is a linear equation that combines a specific set of input values (x) the solution to which is the predicted output for that set of input values (y). As such, both the input values (x) and the output value are numeric
 
-
+Linear Regression is the process of finding a line that best fits the data points available on the plot, so that we can use it to predict output values for inputs that are not present in the data set we have, with the belief that those outputs would fall on the line.
