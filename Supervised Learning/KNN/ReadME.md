@@ -32,5 +32,5 @@ KNN works by finding the distances between a query and all the examples in the d
 ## The Distance
 The most popular distance measure used for this algorithm is the Euclidean Distance. It is calculated as the square root of the sum of the squared differences between a new point and an existing point across all input attributes.
 ![](https://i.stack.imgur.com/RtnTY.jpg)
+![image](https://user-images.githubusercontent.com/95150718/144479220-d35d58a4-2fc7-4ce3-b5b3-26459cf7214a.png)
 
-![image](https://user-images.githubusercontent.com/95150718/144479017-d498b4af-9dc9-4c97-b7ba-ceb8beceb850.png)
