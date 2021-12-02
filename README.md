@@ -1,5 +1,6 @@
 # DATA 4319 — Statistical and Machine Learning
-![](https://global-uploads.webflow.com/5d3ec351b1eba4332d213004/5efef4c7cfab3c3aa8b8e7a6_image5_s.jpg)
+![image](https://user-images.githubusercontent.com/95150718/144489988-a7c052e3-fb26-4bfa-b1a0-99a4697087de.png)
+
 
 ## Basic  Description of the course
 The major difference between machine learning and statistics is their purpose. Machine learning models are designed to make the most accurate predictions possible. Statistical models are designed for inference about the relationships between variables.... Statistics is the mathematical study of data.
@@ -13,7 +14,7 @@ Programming languages used in this repo:
 
 ### The Components of Learning
 
-+ Supervised Learning
++ Supervised Learning :
   + Linear Regression
   + The K-Nearest Neighbors Algorithm KNN
   + Decision Trees and Regression Trees
@@ -21,16 +22,16 @@ Programming languages used in this repo:
   + Logistic Regression
   + The Perceptron Learning Algorithm
   + Neural Nets
-+ Unsupervised Learning
-  + Clustering
-  + The K-Means Clustering Algorithm
-  + Hierarchical Clustering
-  + Probabilistic Clustering
+
+  + Unsupervised Learning:
+•  K - Means Clustering
+•  Principle Component Analysis
+ 
  
 + Reinforcement Learning
   + Q-Learning
   + REINFORCE
-  + Deep Q-Networks
+  
  
 ### INSTRUCTOR:
 + Professor : Dr. Randy R. Davila
