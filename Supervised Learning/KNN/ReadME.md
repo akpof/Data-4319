@@ -1,8 +1,7 @@
 # The K-Nearest Neighbors Algorithm
 ![](https://www.coryjmaklin.com/media/machine-learning-algorithms-part-6-k-nearest-neighbors-in-python-1.png)
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fskilllx.com%2Fhow-k-nearest-neighbor-algorithm-works%2F&psig=AOvVaw2t7s4oMQB8chc8PXYbVPY3&ust=1638553422392000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjB8q7VxfQCFQAAAAAdAAAAABAP)
-
+![](https://www.coryjmaklin.com/media/machine-learning-algorithms-part-6-k-nearest-neighbors-in-python-1.png)
 ## What is k-NN?
 
 k-Nearest neighbors is one of the simplest supervised machine learning algortithm there is. It is sometimes called the lazy algortithm because of how so simple it is. While it's mostly used for solving classification problems, this algorithm can also be used to solve regression and search (reccomendations) problems. It makes no mathematical assumptions, and it doesn’t require any sort of heavy machinery. 
