@@ -1,13 +1,20 @@
 # The Gradient Descent Algorithm
-![](https://d2o2utebsixu4k.cloudfront.net/media/images/1566457804835-Image-18.jpg)
+![image](https://user-images.githubusercontent.com/95150718/145144537-9f51d5b5-d5d6-4ea6-b2e2-4c1d1cc0c05d.png)
+
+## Gradient descent algorithm and its three types
+![image](https://user-images.githubusercontent.com/95150718/145144925-678977f0-a88a-417b-bf16-e648997e8d97.png)
+
+
 
 ## What is Gradient Descent?
 
 Gradient descent (GD) is an iterative first-order optimisation algorithm used to find a local minimum/maximum of a given function. This method is commonly used in machine learning (ML) and deep learning(DL) to minimise a cost/loss function (e.g. in a linear regression).
 
 
-## How does the Gradient Descent work?
+## How Gradient Descent work?
 Gradient descent is an iterative optimization algorithm for finding the local minimum of a function.The objective in the case of gradient descent is to find a line of best fit for some given features (inputs), or X values, and any number of labels (outputs) or Y values
+![image](https://user-images.githubusercontent.com/95150718/145145136-91b69e95-4568-444f-b0e7-381f6cb2a7ca.png)
+
 
 ## Minimizing the Cost Function
 It is always the primary goal of any Machine Learning Algorithm to minimize the Cost Function. 
