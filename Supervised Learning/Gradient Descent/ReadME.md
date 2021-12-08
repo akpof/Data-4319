@@ -8,7 +8,6 @@ Gradient descent (GD) is an iterative first-order optimisation algorithm used to
 
 ## How Gradient Descent work?
 Gradient descent is an iterative optimization algorithm for finding the local minimum of a function.The objective in the case of gradient descent is to find a line of best fit for some given features (inputs), or X values, and any number of labels (outputs) or Y values
-![image](https://user-images.githubusercontent.com/95150718/145145136-91b69e95-4568-444f-b0e7-381f6cb2a7ca.png)
 
 
 ## Minimizing the Cost Function and gadient descent algorithm types
